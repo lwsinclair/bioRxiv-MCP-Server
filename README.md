@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/jackkuo666-biorxiv-mcp-server)
+
 # bioRxiv MCP Server
 
 🔍 Enable AI assistants to search and access bioRxiv papers through a simple MCP interface.
